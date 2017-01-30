@@ -1,0 +1,3 @@
+"What does the command uname do?"
+
+It prints the system information about your computer. IE, Darwin or Linux.

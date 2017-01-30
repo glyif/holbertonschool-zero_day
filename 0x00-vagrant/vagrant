@@ -1,0 +1,3 @@
+"What is vagrant"
+
+It's a program developed to help make the development process easier by creating vms with certain specs like OS, preinstalled programs, etc. Developers can use this share these vagrant "boxes" to get the exact enviornment for everyone.
